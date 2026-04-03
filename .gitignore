@@ -1,0 +1,6 @@
+*.user
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumb.db
